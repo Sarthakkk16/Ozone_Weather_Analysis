@@ -5,4 +5,4 @@
 
 
 # Data Column
-![](<img width="396" height="328" alt="image" src="https://github.com/user-attachments/assets/52cd73fb-9d96-4b78-99c1-050332f9312e" />)
+![]([<img width="396" height="328" alt="image" src="https://github.com/user-attachments/assets/52cd73fb-9d96-4b78-99c1-050332f9312e" />](https://github.com/Sarthakkk16/Ozone_Weather_Analysis/blob/main/Screenshot%202025-11-11%20123516.png))
